@@ -26,11 +26,7 @@ AI-Supported Research, Data Standardization, Prompt Design, Evaluation and Valid
 *A glimpse of some of the projects I've been working on.*
 
 **AI-Powered Data Analysis Internship Project | Excelerate.**
-![image](1 anietie etuk data analytics car project.jpeg) "C:\Users\USER\Downloads\AI POWERED DATA ANALYSIS\Week4_Chiamaka Chinaza_Final Presentation_and_Program Insights Report(1).pptx"
-"C:\Users\USER\Downloads\AI POWERED DATA ANALYSIS\Week1_Chiamaka Chinaza_Data Understanding Report_ Deliverables.docx"
-"C:\Users\USER\Downloads\AI POWERED DATA ANALYSIS\Week 4_ Chiamaka Chinaza_Final Presentation and Program Insights Report.docx"
-"C:\Users\USER\Downloads\AI POWERED DATA ANALYSIS\Week 3_Chiamaka Chinaza_Trained Models and Prediction Report.docx"
-"C:\Users\USER\Downloads\AI POWERED DATA ANALYSIS\Week 2_Chiamaka Chinaza_Cohort Analysis Report With Visuals_Deliverables.docx"
+![image](1 anietie etuk data analytics car project.jpeg) 
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -81,7 +77,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://x.com/makalee7/status/2114495351696552371?s=46">Check my progress on Twitter(X)</a></td>
     </tr>
   </tbody>
 </table>
