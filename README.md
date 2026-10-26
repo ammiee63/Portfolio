@@ -69,7 +69,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://mail.google.com/mail/u/0/?ogbl#inbox/FMfcgzQjgghCKGqpDHbhgdkSSJWhSZld?projector=1&messagePartId=0.1>Download my CV</a></td>
+      <td><a href="https://mail.google.com/mail/u/0?ui=2&ik=8b2831a556&attid=0.1.1&permmsgid=msg-f:1879948967012073456&th=1a16eba0069dfff0&view=att&zw&disp=inline">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
