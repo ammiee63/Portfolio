@@ -26,7 +26,9 @@ AI-Supported Research, Data Standardization, Prompt Design, AI Evaluation and Va
 *A glimpse of some of the projects I've been working on.*
 
 **AI-Powered Data Analysis Internship Project | Excelerate.**
-Week1_Chiamaka Chinaza_Data Understanding Report_ Deliverables (1).pdf
+
+<a href= "Week1_Chiamaka Chinaza_Data Understanding Report_ Deliverables (1).pdf">Download the Report here(pdf file)</a>
+
 ![image](1 anietie etuk data analytics car project.jpeg) 
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
