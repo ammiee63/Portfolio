@@ -27,6 +27,8 @@ AI-Supported Research, Data Standardization, Prompt Design, AI Evaluation and Va
 
 **AI-Powered Data Analysis Internship Project | Excelerate.**
 
+<a href= "Week 4_ Chiamaka Chinaza_Final Presentation ^0 Insights Report(1).pdf">Download the Report 4 (pdf file)</a>
+
 <a href= "Week 3_Chiamaka Chinaza_Trained Models and Prediction Report.pdf">Download the Report here 3 (pdf file)</a>
 
 
