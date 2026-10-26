@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Chiamaka Chinaza, AI Data Analyst, AI Evaluator, Seeking to leverage data-driven problem-solving skills for more accurate business decision making with Generative AI.
+Hello! I'm Chiamaka Chinaza, AI Data Analyst, Seeking to leverage data-driven problem-solving skills for more accurate business decision making with Generative AI.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -17,7 +17,7 @@ Microsoft Excel, SQL, Power BI
 Random Forest Classification and Regression, XGBoost, Prediction Probabilities and Model EValuation.
 
 **- AI- Assisted Workflows.**
-AI-Supported Research, Data Standardization, Prompt Design, Evaluation and Validation Of AI-Generated Outputs.
+AI-Supported Research, Data Standardization, Prompt Design, AI Evaluation and Validation Of AI-Generated Outputs.
 
 
 <!--Section 2: List 3-4 key projects-->
