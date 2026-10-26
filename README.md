@@ -27,9 +27,9 @@ AI-Supported Research, Data Standardization, Prompt Design, AI Evaluation and Va
 
 **AI-Powered Data Analysis Internship Project | Excelerate.**
 
-<a href= "Week 2_Chiamaka Chinaza_Cohort Analysis Report With Visuals_Deliverables.pdf">Download the Report here(pdf file)</a>
+<a href= "Week 2_Chiamaka Chinaza_Cohort Analysis Report With Visuals_Deliverables.pdf">Download the Report here 2 (pdf file)</a>
 
-<a href= "Week1_Chiamaka Chinaza_Data Understanding Report_ Deliverables (1).pdf">Download the Report here(pdf file)</a>
+<a href= "Week1_Chiamaka Chinaza_Data Understanding Report_ Deliverables (1).pdf">Download the Report here 1 (pdf file)</a>
 
 ![image](1 anietie etuk data analytics car project.jpeg) 
 
