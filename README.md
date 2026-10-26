@@ -27,9 +27,8 @@ AI-Supported Research, Data Standardization, Prompt Design, AI Evaluation and Va
 
 **AI-Powered Data Analysis Internship Project | Excelerate.**
 
-<a href= "Week4_Chiamaka Chinaza_Final Presentation_and_Program Insights Report.pptx">Download the Slides 5 (ppt)</a>
 
-<a href= "Week 4_ Chiamaka Chinaza_Final Presentation ^0 Insights Report(1).pdf">Download the Report 4 (pdf file)</a>
+<a href= "Week 4_ Chiamaka Chinaza_Final Presentation ^0 Insights Report(1).pdf">Download the Report here 4 (pdf file)</a>
 
 <a href= "Week 3_Chiamaka Chinaza_Trained Models and Prediction Report.pdf">Download the Report here 3 (pdf file)</a>
 
@@ -44,7 +43,9 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Logistics Operations Capstone Project.**
+
+[Read More](https://lnkd.in/p/eH4t4fd2)
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
