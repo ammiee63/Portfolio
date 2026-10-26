@@ -1,22 +1,22 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Chiamaka Chinaza🤓, AI Data Analyst, AI Evaluator, Seeking to leverage data-driven problem-solving skills for more accurate business decision making with Generative AI.
+Hello! I'm Chiamaka Chinaza, AI Data Analyst, AI Evaluator, Seeking to leverage data-driven problem-solving skills for more accurate business decision making with Generative AI.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## SKILLS
 
 **- Data Analysis.**
 I have hands-on skill in Data Cleaning and Preparation, Exploratory Data Analysis (EDA), KPI Reporting, Trend Analysis, Data Validation, Data Visualization and Driving Insights, Data-driven decision-making.
 
-**- ✅ Tools.**
+**- Tools.**
 Microsoft Excel, SQL, Power BI
 
 **- Machine Learning.**
 Random Forest Classification and Regression, XGBoost, Prediction Probabilities and Model EValuation.
 
-**- ✅ AI- Assisted Workflows.**
+**- AI- Assisted Workflows.**
 AI-Supported Research, Data Standardization, Prompt Design, Evaluation and Validation Of AI-Generated Outputs.
 
 
@@ -25,8 +25,12 @@ AI-Supported Research, Data Standardization, Prompt Design, Evaluation and Valid
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**AI-Powered Data Analysis Internship Project | Excelerate.**
+![image](1 anietie etuk data analytics car project.jpeg) "C:\Users\USER\Downloads\AI POWERED DATA ANALYSIS\Week4_Chiamaka Chinaza_Final Presentation_and_Program Insights Report(1).pptx"
+"C:\Users\USER\Downloads\AI POWERED DATA ANALYSIS\Week1_Chiamaka Chinaza_Data Understanding Report_ Deliverables.docx"
+"C:\Users\USER\Downloads\AI POWERED DATA ANALYSIS\Week 4_ Chiamaka Chinaza_Final Presentation and Program Insights Report.docx"
+"C:\Users\USER\Downloads\AI POWERED DATA ANALYSIS\Week 3_Chiamaka Chinaza_Trained Models and Prediction Report.docx"
+"C:\Users\USER\Downloads\AI POWERED DATA ANALYSIS\Week 2_Chiamaka Chinaza_Cohort Analysis Report With Visuals_Deliverables.docx"
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -57,15 +61,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:chinazachiamaka8@gmail.com">chinazachiamaka8@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 704-194-1522</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Abuja, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
