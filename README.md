@@ -43,7 +43,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Logistics Operations Capstone Project.**
+**Logistics and Fleet Operations Analytics Dashboard (Capstone Project).**
 
 [Read More](https://lnkd.in/p/eH4t4fd2)
 
