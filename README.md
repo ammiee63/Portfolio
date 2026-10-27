@@ -41,7 +41,8 @@ I designed effective prompts, validate AI-generated content, and integrate AI in
 
 
 
-**AI-Powered Data Analysis Internship Project |Excelerate.**
+
+**AI-powered Data Analysis Internship Project.**
 
 
 How I used AI-powered decision-making, applied machine learning and time series analysis to forecast application peaks, identifying high-performing opportunities and presenting insights that support strategic planning.
