@@ -84,11 +84,15 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 ![image](Sales Analysis_Power BI_ Project.png)
 
-I built an interactive dashboard, got my KPIs, income level and found the most profitable product
+I built an interactive dashboard, got my KPIs, income level and found the most profitable product.
 
 [Read More](https://x.com/makalee7/status/2114500395368104050?s=46)
 
 **Sales Performance Dashboard (Microsoft Excel).**
+
+![image](Excel Sales Performance Dashboard.png)
+
+My first interactive Excel dashboard analyzing sales performance.
 
 [Read More](https://x.com/makalee7/status/2114495351696552371?s=46)
 
