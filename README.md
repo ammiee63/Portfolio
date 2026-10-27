@@ -52,6 +52,7 @@ I built 2 interactive Transport, Logistics and Fleet Operations Analytics Dashbo
 
 [Read More](https://lnkd.in/p/eH4t4fd2)
 
+
 ![image](2 anietie etuk data analytics sales project.jpg)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
@@ -61,6 +62,10 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 **Electronics Sales Performance Dashboard (Power BI Project).**
 
 [Read More](https://x.com/makalee7/status/2114500395368104050?s=46)
+
+**Sales Performance Dashboard (Microsoft Excel).**
+
+https://x.com/makalee7/status/2114495351696552371?s=46
 
 
 ![image](3 anietie etuk data analytics agro project.jpg)
