@@ -28,6 +28,7 @@ AI-Supported Research, Data Standardization, Prompt Design, AI Evaluation and Va
 
 **Research Integration Internship Project**
 
+<a href= "Week3_Chiamakachinaza_Research Validation matrix.pdf">Download the Report here 3 (pdf file)</a>
 
 <a href= "Week2_Chiamaka Chinaza_Prompt Experimentation Report.pdf">Download the Report here 2 (pdf file)</a>
 
