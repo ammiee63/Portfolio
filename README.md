@@ -26,8 +26,7 @@ AI-Supported Research, Data Standardization, Prompt Design, AI Evaluation and Va
 *A glimpse of some of the projects I've been working on.*
 
 
-**Research Integration Internship Project**
-
+**Research Integration Internship Project.**
 
 I designed effective prompts, validate AI-generated content, and integrate AI into professional research and reporting workflows.
 
@@ -44,7 +43,6 @@ I designed effective prompts, validate AI-generated content, and integrate AI in
 
 **AI-Powered Data Analysis Internship Project | Excelerate.**
 
-
 How I used AI-powered decision-making, applied machine learning and time series analysis to forecast application peaks, identifying high-performing opportunities and presenting insights that support strategic planning.
 
 
@@ -60,7 +58,6 @@ How I used AI-powered decision-making, applied machine learning and time series 
 
 **Logistics and Fleet Operations Analytics Dashboard (Capstone Project).**
 
-
 ![image](Logistics Operations_Capstone Project.png)
 
 I built 2 interactive Transport, Logistics and Fleet Operations Analytics Dashboard which one of it deep-dives into trip volume, maintenance expenditure and a critical downtime analysis. 
@@ -69,7 +66,6 @@ I built 2 interactive Transport, Logistics and Fleet Operations Analytics Dashbo
 
 
 **Electronics Sales Performance Dashboard (Power BI Project).**
-
 
 ![image](Sales Analysis_Power BI_ Project.png)
 
@@ -80,7 +76,6 @@ I built an interactive dashboard, got my KPIs, income level and found the most p
 
 
 **Sales Performance Dashboard (Microsoft Excel).**
-
 
 ![image](Excel Sales Performance Dashboard.png)
 
