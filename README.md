@@ -65,7 +65,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 **Sales Performance Dashboard (Microsoft Excel).**
 
-https://x.com/makalee7/status/2114495351696552371?s=46
+[Read More](https://x.com/makalee7/status/2114495351696552371?s=46)
 
 
 ![image](3 anietie etuk data analytics agro project.jpg)
