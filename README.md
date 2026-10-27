@@ -28,6 +28,9 @@ AI-Supported Research, Data Standardization, Prompt Design, AI Evaluation and Va
 
 **Research Integration Internship Project**
 
+
+Designed effective prompts, validate AI-generated content, and integrate AI into professional research and reporting workflows.
+
 <a href= "Week4_Chiamaka Chinaza_Prompt Engineering_Combined_Deliverables.pdf">Download the Report here 4 (pdf file)</a>
 
 <a href= "Week3_Chiamakachinaza_Research Validation matrix.pdf">Download the Report here 3 (pdf file)</a>
@@ -40,6 +43,9 @@ AI-Supported Research, Data Standardization, Prompt Design, AI Evaluation and Va
 
 
 **AI-Powered Data Analysis Internship Project | Excelerate.**
+
+
+AI-powered decision-making, applying machine learning and time series analysis to forecast application peaks, identifying high-performing opportunities and presenting insights that support strategic planning.
 
 
 <a href= "Week 4_ Chiamaka Chinaza_Final Presentation ^0 Insights Report(1).pdf">Download the Report here 4 (pdf file)</a>
