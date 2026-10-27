@@ -66,7 +66,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 **Logistics and Fleet Operations Analytics Dashboard (Capstone Project).**
 
 
-![image]"(Logistics Operations_Capstone Project.png)"
+![image](Logistics Operations_Capstone Project.png)
 
 I built 2 interactive Transport, Logistics and Fleet Operations Analytics Dashboard. 
 
