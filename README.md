@@ -26,7 +26,7 @@ AI-Supported Research, Data Standardization, Prompt Design, AI Evaluation and Va
 *A glimpse of some of the projects I've been working on.*
 
 
-**Research Integration Internship Project |Excelerate.**
+**Research Integration Internship Project.**
 
 I designed effective prompts, validate AI-generated content, and integrate AI into professional research and reporting workflows.
 
@@ -43,7 +43,6 @@ I designed effective prompts, validate AI-generated content, and integrate AI in
 
 
 **AI-powered Data Analysis Internship Project.**
-
 
 How I used AI-powered decision-making, applied machine learning and time series analysis to forecast application peaks, identifying high-performing opportunities and presenting insights that support strategic planning.
 
