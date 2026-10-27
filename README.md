@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Chiamaka Chinaza, AI Data Analyst, Seeking to leverage data-driven problem-solving skills for more accurate business decision making with Generative AI.
+Hello! I'm Chiamaka Chinaza, AI- Data Analyst, Seeking to leverage data-driven problem-solving skills for more accurate business decision making with Generative AI.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
