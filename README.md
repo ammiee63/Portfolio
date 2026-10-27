@@ -68,7 +68,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 ![image](Logistics Operations_Capstone Project.png)
 
-I built 2 interactive Transport, Logistics and Fleet Operations Analytics Dashboard. 
+I built 2 interactive Transport, Logistics and Fleet Operations Analytics Dashboard which one of it deep-dives into trip volume, maintenance expenditure and a critical downtime analysis. 
 
 [Read More](https://lnkd.in/p/eH4t4fd2)
 
@@ -80,6 +80,11 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Electronics Sales Performance Dashboard (Power BI Project).**
+
+
+![image](Sales Analysis_Power BI_ Project.png)
+
+I built an interactive dashboard, got my KPIs, income level and found the most profitable product
 
 [Read More](https://x.com/makalee7/status/2114500395368104050?s=46)
 
