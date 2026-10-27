@@ -25,6 +25,13 @@ AI-Supported Research, Data Standardization, Prompt Design, AI Evaluation and Va
 
 *A glimpse of some of the projects I've been working on.*
 
+
+**Research Integration Internship Project**
+
+
+<a href= "Week1_Chiamaka Chinaza_Prompt Design LogBook.pdf">Download the Report here 1 (pdf file)</a>
+
+
 **AI-Powered Data Analysis Internship Project | Excelerate.**
 
 
